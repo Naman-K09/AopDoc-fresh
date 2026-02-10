@@ -221,77 +221,9 @@ AopDoc/
 
 ---
 
-## 📊 Screenshots & Demo
-
-> Coming soon... 🎬
-
----
-
-## 🐛 Troubleshooting
-
-### Port Already in Use
-```bash
-# Change port in server.js or use:
-PORT=3000 npm start
-```
-
-### MongoDB Connection Error
-- Verify MongoDB is running
-- Check connection string in `config/db.js`
-- Ensure proper network access for Atlas
-
-### Dependencies Issue
-```bash
-# Clear cache and reinstall
-rm -rf node_modules package-lock.json
-npm install
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Code Style
-- Follow ESLint configuration
-- Write meaningful commit messages
-- Add comments for complex logic
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Naman K**
-- GitHub: [@Naman-K09](https://github.com/Naman-K09)
-- 📧 Email: [your-email@example.com]
-
----
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors
-- Inspired by modern healthcare solutions
-- Built with ❤️ for better appointment management
-
----
-
-<div align="center">
-
-### ⭐ If you like this project, please consider starring it!
-
-[⬆ Back to Top](#-aopdoc---doctor-appointment-system)
+- GitHub: [@Naman-K09](https://github.com/Naman-K09]
 
 </div>
